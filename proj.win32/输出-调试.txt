@@ -1,0 +1,232 @@
+﻿“Test.exe”(Win32): 已加载“D:\4prj\cocos2d-x-dev\Test\proj.win32\Debug.win32\Test.exe”。已加载符号。
+“Test.exe”(Win32): 已加载“C:\Windows\SysWOW64\ntdll.dll”。
+“Test.exe”(Win32): 已加载“C:\Windows\SysWOW64\kernel32.dll”。
+“Test.exe”(Win32): 已加载“C:\Windows\SysWOW64\KernelBase.dll”。
+“Test.exe”(Win32): 已加载“D:\4prj\cocos2d-x-dev\Test\proj.win32\Debug.win32\libcocos2d.dll”。已加载符号。
+“Test.exe”(Win32): 已加载“C:\Windows\SysWOW64\msvcp140d.dll”。
+“Test.exe”(Win32): 已加载“C:\Windows\SysWOW64\ucrtbased.dll”。
+“Test.exe”(Win32): 已加载“C:\Windows\SysWOW64\vcruntime140d.dll”。
+“Test.exe”(Win32): 已加载“C:\Windows\SysWOW64\vcruntime140d.dll”。
+“Test.exe”(Win32): 已卸载“C:\Windows\SysWOW64\vcruntime140d.dll”
+“Test.exe”(Win32): 已加载“C:\Windows\SysWOW64\ws2_32.dll”。
+“Test.exe”(Win32): 已加载“D:\4prj\cocos2d-x-dev\Test\proj.win32\Debug.win32\sqlite3.dll”。
+“Test.exe”(Win32): 已加载“D:\4prj\cocos2d-x-dev\Test\proj.win32\Debug.win32\libcurl.dll”。模块已生成，不包含符号。
+“Test.exe”(Win32): 已加载“D:\4prj\cocos2d-x-dev\Test\proj.win32\Debug.win32\websockets.dll”。模块已生成，不包含符号。
+“Test.exe”(Win32): 已加载“C:\Windows\SysWOW64\rpcrt4.dll”。
+“Test.exe”(Win32): 已加载“C:\Windows\SysWOW64\Wldap32.dll”。
+“Test.exe”(Win32): 已加载“C:\Windows\SysWOW64\sspicli.dll”。
+“Test.exe”(Win32): 已加载“C:\Windows\SysWOW64\ucrtbase.dll”。
+“Test.exe”(Win32): 已加载“C:\Windows\SysWOW64\ucrtbase.dll”。
+“Test.exe”(Win32): 已卸载“C:\Windows\SysWOW64\ucrtbase.dll”
+“Test.exe”(Win32): 已加载“D:\4prj\cocos2d-x-dev\Test\proj.win32\Debug.win32\libmpg123.dll”。
+“Test.exe”(Win32): 已加载“C:\Windows\SysWOW64\cryptbase.dll”。
+“Test.exe”(Win32): 已加载“C:\Windows\SysWOW64\normaliz.dll”。
+“Test.exe”(Win32): 已加载“C:\Windows\SysWOW64\bcryptprimitives.dll”。
+“Test.exe”(Win32): 已加载“D:\4prj\cocos2d-x-dev\Test\proj.win32\Debug.win32\libvorbisfile.dll”。模块已生成，不包含符号。
+“Test.exe”(Win32): 已加载“D:\4prj\cocos2d-x-dev\Test\proj.win32\Debug.win32\OpenAL32.dll”。模块已生成，不包含符号。
+“Test.exe”(Win32): 已加载“C:\Windows\SysWOW64\sechost.dll”。
+“Test.exe”(Win32): 已加载“C:\Windows\SysWOW64\version.dll”。
+“Test.exe”(Win32): 已加载“C:\Windows\SysWOW64\user32.dll”。
+“Test.exe”(Win32): 已加载“C:\Windows\SysWOW64\user32.dll”。
+“Test.exe”(Win32): 已加载“C:\Windows\SysWOW64\msvcrt.dll”。
+“Test.exe”(Win32): 已卸载“C:\Windows\SysWOW64\user32.dll”
+“Test.exe”(Win32): 已加载“C:\Windows\SysWOW64\win32u.dll”。
+“Test.exe”(Win32): 已加载“C:\Windows\SysWOW64\opengl32.dll”。
+“Test.exe”(Win32): 已加载“C:\Windows\SysWOW64\shell32.dll”。
+“Test.exe”(Win32): 已加载“C:\Windows\SysWOW64\advapi32.dll”。
+“Test.exe”(Win32): 已加载“C:\Windows\SysWOW64\gdi32.dll”。
+“Test.exe”(Win32): 已加载“D:\4prj\cocos2d-x-dev\Test\proj.win32\Debug.win32\glew32.dll”。模块已生成，不包含符号。
+“Test.exe”(Win32): 已加载“C:\Windows\SysWOW64\cfgmgr32.dll”。
+“Test.exe”(Win32): 已加载“C:\Windows\SysWOW64\gdi32full.dll”。
+“Test.exe”(Win32): 已加载“C:\Windows\SysWOW64\combase.dll”。
+“Test.exe”(Win32): 已加载“C:\Windows\SysWOW64\SHCore.dll”。
+“Test.exe”(Win32): 已加载“C:\Windows\SysWOW64\msvcp_win.dll”。
+“Test.exe”(Win32): 已加载“D:\4prj\cocos2d-x-dev\Test\proj.win32\Debug.win32\zlib1.dll”。
+“Test.exe”(Win32): 已加载“C:\Windows\SysWOW64\windows.storage.dll”。
+“Test.exe”(Win32): 已加载“D:\4prj\cocos2d-x-dev\Test\proj.win32\Debug.win32\libssl-1_1.dll”。
+“Test.exe”(Win32): 已加载“C:\Windows\SysWOW64\winmm.dll”。
+“Test.exe”(Win32): 已加载“C:\Windows\SysWOW64\profapi.dll”。
+“Test.exe”(Win32): 已加载“C:\Windows\SysWOW64\msvcr100.dll”。
+“Test.exe”(Win32): 已加载“D:\4prj\cocos2d-x-dev\Test\proj.win32\Debug.win32\libcrypto-1_1.dll”。
+“Test.exe”(Win32): 已加载“C:\Windows\SysWOW64\powrprof.dll”。
+“Test.exe”(Win32): 已加载“D:\4prj\cocos2d-x-dev\Test\proj.win32\Debug.win32\uv.dll”。
+“Test.exe”(Win32): 已加载“C:\Windows\SysWOW64\umpdc.dll”。
+“Test.exe”(Win32): 已加载“C:\Windows\SysWOW64\vcruntime140.dll”。
+“Test.exe”(Win32): 已加载“C:\Windows\SysWOW64\psapi.dll”。
+“Test.exe”(Win32): 已加载“C:\Windows\SysWOW64\shlwapi.dll”。
+“Test.exe”(Win32): 已加载“C:\Windows\SysWOW64\msvcr120.dll”。
+“Test.exe”(Win32): 已加载“C:\Windows\SysWOW64\msvcr110.dll”。
+“Test.exe”(Win32): 已加载“C:\Windows\SysWOW64\kernel.appcore.dll”。
+“Test.exe”(Win32): 已加载“D:\4prj\cocos2d-x-dev\Test\proj.win32\Debug.win32\libogg.dll”。模块已生成，不包含符号。
+“Test.exe”(Win32): 已加载“D:\4prj\cocos2d-x-dev\Test\proj.win32\Debug.win32\libvorbis.dll”。模块已生成，不包含符号。
+“Test.exe”(Win32): 已加载“C:\Windows\SysWOW64\cryptsp.dll”。
+“Test.exe”(Win32): 已加载“C:\Windows\SysWOW64\ole32.dll”。
+“Test.exe”(Win32): 已加载“C:\Windows\SysWOW64\glu32.dll”。
+“Test.exe”(Win32): 已加载“C:\Windows\SysWOW64\winmmbase.dll”。
+“Test.exe”(Win32): 已加载“C:\Windows\SysWOW64\winmmbase.dll”。
+“Test.exe”(Win32): 已加载“C:\Windows\SysWOW64\winmmbase.dll”。
+“Test.exe”(Win32): 已卸载“C:\Windows\SysWOW64\winmmbase.dll”
+“Test.exe”(Win32): 已卸载“C:\Windows\SysWOW64\winmmbase.dll”
+“Test.exe”(Win32): 已加载“C:\Windows\SysWOW64\IPHLPAPI.DLL”。
+“Test.exe”(Win32): 已加载“C:\Windows\SysWOW64\userenv.dll”。
+“Test.exe”(Win32): 已加载“C:\Windows\SysWOW64\DXCore.dll”。
+“Test.exe”(Win32): 已加载“C:\Windows\SysWOW64\imm32.dll”。
+“Test.exe”(Win32): 已加载“C:\Windows\SysWOW64\uxtheme.dll”。
+“Test.exe”(Win32): 已加载“C:\Windows\SysWOW64\dinput8.dll”。
+“Test.exe”(Win32): 已加载“C:\Windows\SysWOW64\XInput1_4.dll”。
+“Test.exe”(Win32): 已加载“C:\Windows\SysWOW64\devobj.dll”。
+“Test.exe”(Win32): 已加载“C:\Windows\SysWOW64\dwmapi.dll”。
+“Test.exe”(Win32): 已加载“C:\Windows\SysWOW64\InputHost.dll”。
+“Test.exe”(Win32): 已加载“C:\Windows\SysWOW64\CoreMessaging.dll”。
+“Test.exe”(Win32): 已加载“C:\Windows\SysWOW64\CoreUIComponents.dll”。
+“Test.exe”(Win32): 已加载“C:\Windows\SysWOW64\WinTypes.dll”。
+“Test.exe”(Win32): 已加载“C:\Windows\SysWOW64\propsys.dll”。
+“Test.exe”(Win32): 已加载“C:\Windows\SysWOW64\oleaut32.dll”。
+“Test.exe”(Win32): 已加载“C:\Windows\SysWOW64\ntmarta.dll”。
+“Test.exe”(Win32): 已加载“C:\Windows\SysWOW64\hid.dll”。
+“Test.exe”(Win32): 已加载“C:\Windows\SysWOW64\setupapi.dll”。
+“Test.exe”(Win32): 已加载“C:\Windows\SysWOW64\bcrypt.dll”。
+“Test.exe”(Win32): 已加载“C:\Windows\SysWOW64\wintrust.dll”。
+“Test.exe”(Win32): 已加载“C:\Windows\SysWOW64\msasn1.dll”。
+“Test.exe”(Win32): 已加载“C:\Windows\SysWOW64\crypt32.dll”。
+“Test.exe”(Win32): 已加载“C:\Windows\SysWOW64\msctf.dll”。
+“Test.exe”(Win32): 已加载“C:\Windows\System32\DriverStore\FileRepository\nvcvi.inf_amd64_cfb4ba051dd14c23\nvdlist.dll”。
+“Test.exe”(Win32): 已加载“C:\Windows\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_4dba83ee4d7408ff\ig9icd32.dll”。
+“Test.exe”(Win32): 已加载“C:\Windows\SysWOW64\dxgi.dll”。
+“Test.exe”(Win32): 已加载“C:\Windows\SysWOW64\ResourcePolicyClient.dll”。
+“Test.exe”(Win32): 已卸载“C:\Windows\System32\DriverStore\FileRepository\nvcvi.inf_amd64_cfb4ba051dd14c23\nvdlist.dll”
+线程 0x22ac 已退出，返回值为 0 (0x0)。
+“Test.exe”(Win32): 已卸载“C:\Windows\SysWOW64\ResourcePolicyClient.dll”
+“Test.exe”(Win32): 已加载“C:\Windows\System32\DriverStore\FileRepository\nvcvi.inf_amd64_cfb4ba051dd14c23\nvdlist.dll”。
+“Test.exe”(Win32): 已加载“C:\Windows\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_4dba83ee4d7408ff\igdgmm32.dll”。
+“Test.exe”(Win32): 已卸载“C:\Windows\System32\DriverStore\FileRepository\nvcvi.inf_amd64_cfb4ba051dd14c23\nvdlist.dll”
+线程 0x3450 已退出，返回值为 0 (0x0)。
+“Test.exe”(Win32): 已加载“C:\Windows\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_4dba83ee4d7408ff\igdml32.dll”。
+“Test.exe”(Win32): 已加载“C:\Windows\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_4dba83ee4d7408ff\igc32.dll”。
+“Test.exe”(Win32): 已卸载“C:\Windows\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_4dba83ee4d7408ff\igdml32.dll”
+“Test.exe”(Win32): 已加载“C:\Windows\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_4dba83ee4d7408ff\igdml32.dll”。
+“Test.exe”(Win32): 已加载“C:\Windows\SysWOW64\TextInputFramework.dll”。
+“Test.exe”(Win32): 已加载“C:\Windows\SysWOW64\iertutil.dll”。
+“Test.exe”(Win32): 已加载“C:\Windows\SysWOW64\clbcatq.dll”。
+“Test.exe”(Win32): 已加载“C:\Windows\SysWOW64\SogouTSF.ime”。
+“Test.exe”(Win32): 已加载“C:\Windows\SysWOW64\msimg32.dll”。
+“Test.exe”(Win32): 已加载“C:\Windows\SysWOW64\SogouPY.ime”。
+“Test.exe”(Win32): 已加载“C:\Windows\SysWOW64\oleacc.dll”。
+“Test.exe”(Win32): 已加载“C:\Windows\SysWOW64\winhttp.dll”。
+“Test.exe”(Win32): 已加载“D:\SogouInput\9.8.0.3746\Resource.dll”。
+“Test.exe”(Win32): 已卸载“D:\SogouInput\9.8.0.3746\Resource.dll”
+“Test.exe”(Win32): 已加载“D:\SogouInput\9.8.0.3746\Resource.dll”。
+“Test.exe”(Win32): 已加载“D:\SogouInput\Components\PicFace\1.1.0.1870\PicFace.dll”。
+“Test.exe”(Win32): 已加载“C:\Windows\SysWOW64\comdlg32.dll”。
+“Test.exe”(Win32): 已加载“C:\Windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_5.82.18362.1198_none_bb60abf7ec91ff24\comctl32.dll”。
+线程 0x301c 已退出，返回值为 0 (0x0)。
+Ready for GLSL
+Ready for OpenGL 2.0
+
+{
+	gl.version: 4.6.0 - Build 27.20.100.8478
+	gl.supports_NPOT: true
+	cocos2d.x.version: cocos2d-x-3.17.2
+	cocos2d.x.compiled_with_profiler: false
+	cocos2d.x.build_type: DEBUG
+	cocos2d.x.compiled_with_gl_state_cache: true
+	gl.max_texture_size: 16384
+	gl.supports_OES_packed_depth_stencil: false
+	gl.vendor: Intel
+	gl.renderer: Intel(R) UHD Graphics 630
+	gl.max_texture_units: 192
+	gl.supports_ETC1: false
+	gl.supports_S3TC: true
+	gl.supports_ATITC: false
+	gl.supports_PVRTC: false
+	gl.supports_BGRA8888: false
+	gl.supports_discard_framebuffer: false
+	gl.supports_vertex_array_object: true
+	gl.supports_OES_map_buffer: false
+	gl.supports_OES_depth24: false
+}
+
+
+“Test.exe”(Win32): 已加载“C:\Windows\SysWOW64\mciqtz32.dll”。
+“Test.exe”(Win32): 已加载“C:\Windows\SysWOW64\quartz.dll”。
+“Test.exe”(Win32): 已加载“C:\Windows\SysWOW64\devenum.dll”。
+“Test.exe”(Win32): 已加载“C:\Program Files (x86)\K-Lite Codec Pack\Filters\vsfilter.dll”。
+“Test.exe”(Win32): 已加载“C:\Windows\SysWOW64\winspool.drv”。
+“Test.exe”(Win32): 已加载“C:\Windows\SysWOW64\wininet.dll”。
+“Test.exe”(Win32): 已加载“D:\狸窝全能视频转换器\thirdlib\FLVSplitter.ax”。
+“Test.exe”(Win32): 已加载“C:\Program Files (x86)\K-Lite Codec Pack\Filters\ffdshow\ffdshow.ax”。
+“Test.exe”(Win32): 已加载“C:\Windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.18362.1198_none_e62f422ef8d70235\comctl32.dll”。
+“Test.exe”(Win32): 已加载“C:\Windows\SysWOW64\d3d9.dll”。
+“Test.exe”(Win32): 已加载“C:\Windows\SysWOW64\dinput.dll”。
+“Test.exe”(Win32): 已加载“C:\Program Files (x86)\K-Lite Codec Pack\Filters\ffdshow\ff_libmad.dll”。
+“Test.exe”(Win32): 已卸载“C:\Program Files (x86)\K-Lite Codec Pack\Filters\ffdshow\ff_libmad.dll”
+“Test.exe”(Win32): 已加载“C:\Program Files (x86)\K-Lite Codec Pack\Filters\LAV\LAVAudio.ax”。
+“Test.exe”(Win32): 已加载“C:\Program Files (x86)\K-Lite Codec Pack\Filters\LAV\avformat-lav-54.dll”。
+“Test.exe”(Win32): 已加载“C:\Program Files (x86)\K-Lite Codec Pack\Filters\LAV\avresample-lav-0.dll”。
+“Test.exe”(Win32): 已加载“C:\Program Files (x86)\K-Lite Codec Pack\Filters\LAV\avcodec-lav-54.dll”。
+“Test.exe”(Win32): 已卸载“C:\Program Files (x86)\K-Lite Codec Pack\Filters\LAV\avresample-lav-0.dll”
+“Test.exe”(Win32): 已加载“C:\Program Files (x86)\K-Lite Codec Pack\Filters\LAV\avutil-lav-51.dll”。
+“Test.exe”(Win32): 已加载“C:\Program Files (x86)\K-Lite Codec Pack\Filters\LAV\avcodec-lav-54.dll”。
+“Test.exe”(Win32): 已卸载“C:\Program Files (x86)\K-Lite Codec Pack\Filters\LAV\avcodec-lav-54.dll”
+“Test.exe”(Win32): 已加载“C:\Program Files (x86)\K-Lite Codec Pack\Filters\LAV\avresample-lav-0.dll”。
+“Test.exe”(Win32): 已加载“C:\Windows\SysWOW64\msdmo.dll”。
+“Test.exe”(Win32): 已加载“C:\Windows\SysWOW64\qasf.dll”。
+“Test.exe”(Win32): 已加载“C:\Windows\SysWOW64\WMVCORE.DLL”。
+“Test.exe”(Win32): 已加载“C:\Windows\SysWOW64\WMASF.DLL”。
+“Test.exe”(Win32): 已加载“C:\Windows\SysWOW64\mfperfhelper.dll”。
+“Test.exe”(Win32): 已加载“C:\Windows\SysWOW64\MP3DMOD.DLL”。
+“Test.exe”(Win32): 已卸载“C:\Windows\SysWOW64\MP3DMOD.DLL”
+“Test.exe”(Win32): 已加载“C:\Windows\SysWOW64\MP3DMOD.DLL”。
+“Test.exe”(Win32): 已加载“C:\Windows\SysWOW64\mfplat.dll”。
+“Test.exe”(Win32): 已加载“C:\Windows\SysWOW64\RTWorkQ.dll”。
+“Test.exe”(Win32): 已加载“C:\Windows\SysWOW64\msacm32.dll”。
+“Test.exe”(Win32): 已加载“C:\Windows\SysWOW64\l3codeca.acm”。
+“Test.exe”(Win32): 已加载“C:\Windows\SysWOW64\msmpeg2adec.dll”。
+“Test.exe”(Win32): 已加载“C:\Windows\SysWOW64\avrt.dll”。
+“Test.exe”(Win32): 已加载“C:\Program Files (x86)\K-Lite Codec Pack\Filters\ffdshow\ff_libmad.dll”。
+“Test.exe”(Win32): 已加载“C:\Windows\SysWOW64\MMDevAPI.dll”。
+“Test.exe”(Win32): 已加载“C:\Windows\SysWOW64\wdmaud.drv”。
+“Test.exe”(Win32): 已加载“C:\Windows\SysWOW64\ksuser.dll”。
+“Test.exe”(Win32): 已加载“C:\Windows\SysWOW64\AudioSes.dll”。
+“Test.exe”(Win32): 已加载“C:\Windows\SysWOW64\msacm32.drv”。
+“Test.exe”(Win32): 已加载“C:\Windows\SysWOW64\midimap.dll”。
+“Test.exe”(Win32): 已加载“C:\Windows\SysWOW64\dsound.dll”。
+“Test.exe”(Win32): 已加载“C:\Windows\SysWOW64\ResourcePolicyClient.dll”。
+线程 0x2f04 已退出，返回值为 0 (0x0)。
+线程 0x1308 已退出，返回值为 0 (0x0)。
+线程 0x1cb8 已退出，返回值为 0 (0x0)。
+cocos2d: fullPathForFilename: No file found at /cc_2x2_white_image. Possible missing file.
+“Test.exe”(Win32): 已加载“C:\Windows\SysWOW64\Windows.UI.dll”。
+cocos2d: QuadCommand: resizing index size from [-1] to [2560]
+线程 0x2528 已退出，返回值为 0 (0x0)。
+“Test.exe”(Win32): 已卸载“C:\Windows\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_4dba83ee4d7408ff\igdml32.dll”
+“Test.exe”(Win32): 已卸载“C:\Windows\SysWOW64\XInput1_4.dll”
+onecoreuap\windows\moderncore\inputv2\inputhost\host\inputhost.cpp(369)\inputhost.dll!6082293F: (caller: 7A7E61B1) ReturnHr(1) tid(37b8) 80004005 未指定的错误
+“Test.exe”(Win32): 已卸载“C:\Windows\SysWOW64\msasn1.dll”
+“Test.exe”(Win32): 已卸载“C:\Windows\SysWOW64\crypt32.dll”
+“Test.exe”(Win32): 已卸载“C:\Windows\SysWOW64\wintrust.dll”
+“Test.exe”(Win32): 已卸载“C:\Windows\SysWOW64\setupapi.dll”
+“Test.exe”(Win32): 已卸载“C:\Windows\SysWOW64\hid.dll”
+“Test.exe”(Win32): 已卸载“C:\Windows\SysWOW64\dinput8.dll”
+线程 0x37fc 已退出，返回值为 0 (0x0)。
+线程 0x3428 已退出，返回值为 0 (0x0)。
+线程 0x7fc 已退出，返回值为 0 (0x0)。
+线程 0x22b8 已退出，返回值为 0 (0x0)。
+线程 0x2fec 已退出，返回值为 0 (0x0)。
+线程 0x3518 已退出，返回值为 0 (0x0)。
+线程 0x98c 已退出，返回值为 0 (0x0)。
+线程 0x311c 已退出，返回值为 0 (0x0)。
+线程 0x35d8 已退出，返回值为 0 (0x0)。
+线程 0x3464 已退出，返回值为 0 (0x0)。
+线程 0x2f58 已退出，返回值为 0 (0x0)。
+线程 0x3538 已退出，返回值为 0 (0x0)。
+线程 0x353c 已退出，返回值为 0 (0x0)。
+线程 0x1d70 已退出，返回值为 0 (0x0)。
+线程 0x16e4 已退出，返回值为 0 (0x0)。
+线程 0x3458 已退出，返回值为 0 (0x0)。
+线程 0x31e4 已退出，返回值为 0 (0x0)。
+线程 0x345c 已退出，返回值为 0 (0x0)。
+线程 0x2c24 已退出，返回值为 0 (0x0)。
+线程 0x76c 已退出，返回值为 0 (0x0)。
+线程 0x1484 已退出，返回值为 0 (0x0)。
+程序“[14260] Test.exe”已退出，返回值为 0 (0x0)。

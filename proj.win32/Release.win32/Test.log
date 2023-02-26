@@ -1,0 +1,149 @@
+﻿  AppDelegate.cpp
+  DeathScene.cpp
+  FlowWord.cpp
+  HelloWorldScene.cpp
+  Monster.cpp
+  PauseScene.cpp
+  Rule.cpp
+  SecondScene.cpp
+  SuccessScene.cpp
+  main.cpp
+  源.cpp
+D:\BaiduNetdiskDownload\cocos2D4prj\4prj\cocos2d-x-dev\Test\Classes\FlowWord.h(7,24): warning C4996: 'cocos2d::CCNode': 被声明为已否决 (编译源文件 ..\Classes\FlowWord.cpp)
+D:\BaiduNetdiskDownload\cocos2D4prj\4prj\cocos2d-x-dev\Test\Classes\FlowWord.h(9,37): warning C4996: 'cocos2d::CCPoint': 被声明为已否决 (编译源文件 ..\Classes\FlowWord.cpp)
+D:\BaiduNetdiskDownload\cocos2D4prj\4prj\cocos2d-x-dev\Test\Classes\FlowWord.h(11,5): warning C4996: 'cocos2d::LabelTTF': 被声明为已否决 (编译源文件 ..\Classes\FlowWord.cpp)
+D:\BaiduNetdiskDownload\cocos2D4prj\4prj\cocos2d-x-dev\Test\Classes\FlowWord.cpp(3,43): warning C4996: 'cocos2d::CCPoint': 被声明为已否决
+D:\BaiduNetdiskDownload\cocos2D4prj\4prj\cocos2d-x-dev\Test\Classes\FlowWord.cpp(5,28): warning C4996: 'cocos2d::LabelTTF': 被声明为已否决
+D:\BaiduNetdiskDownload\cocos2D4prj\4prj\cocos2d-x-dev\Test\Classes\FlowWord.cpp(10,2): warning C4996: 'cocos2d::CCSize': 被声明为已否决
+D:\BaiduNetdiskDownload\cocos2D4prj\4prj\cocos2d-x-dev\Test\Classes\FlowWord.cpp(11,2): warning C4996: 'cocos2d::CCFiniteTimeAction': 被声明为已否决
+D:\BaiduNetdiskDownload\cocos2D4prj\4prj\cocos2d-x-dev\Test\Classes\FlowWord.cpp(12,2): warning C4996: 'cocos2d::CCFiniteTimeAction': 被声明为已否决
+D:\BaiduNetdiskDownload\cocos2D4prj\4prj\cocos2d-x-dev\Test\Classes\FlowWord.cpp(13,2): warning C4996: 'cocos2d::CCFiniteTimeAction': 被声明为已否决
+D:\BaiduNetdiskDownload\cocos2D4prj\4prj\cocos2d-x-dev\Test\Classes\FlowWord.cpp(14,2): warning C4996: 'cocos2d::CCCallFunc': 被声明为已否决
+D:\BaiduNetdiskDownload\cocos2D4prj\4prj\cocos2d-x-dev\Test\Classes\FlowWord.cpp(15,2): warning C4996: 'cocos2d::CCFiniteTimeAction': 被声明为已否决
+D:\BaiduNetdiskDownload\cocos2D4prj\4prj\cocos2d-x-dev\Test\Classes\FlowWord.cpp(5,22): warning C4996: 'cocos2d::LabelTTF::create': 被声明为已否决
+D:\BaiduNetdiskDownload\cocos2D4prj\4prj\cocos2d-x-dev\Test\Classes\FlowWord.cpp(6,18): warning C4996: 'cocos2d::ccc3': 被声明为已否决
+D:\BaiduNetdiskDownload\cocos2D4prj\4prj\cocos2d-x-dev\Test\Classes\FlowWord.cpp(10,35): warning C4996: 'cocos2d::Director::sharedDirector': 被声明为已否决
+D:\BaiduNetdiskDownload\cocos2D4prj\4prj\cocos2d-x-dev\Test\Classes\FlowWord.cpp(12,55): warning C4996: 'cocos2d::ccp': 被声明为已否决
+D:\BaiduNetdiskDownload\cocos2D4prj\4prj\cocos2d-x-dev\Test\Classes\FlowWord.cpp(14,37): warning C4996: 'cocos2d::CallFunc::create': 被声明为已否决
+D:\BaiduNetdiskDownload\cocos2D4prj\4prj\cocos2d-x-dev\Test\Classes\Monster.h(6,23): warning C4996: 'cocos2d::CCNode': 被声明为已否决 (编译源文件 ..\Classes\Monster.cpp)
+D:\BaiduNetdiskDownload\cocos2D4prj\4prj\cocos2d-x-dev\Test\Classes\Monster.h(9,2): warning C4996: 'cocos2d::CCSprite': 被声明为已否决 (编译源文件 ..\Classes\Monster.cpp)
+D:\BaiduNetdiskDownload\cocos2D4prj\4prj\cocos2d-x-dev\Test\Classes\Monster.cpp(3,2): warning C4996: 'cocos2d::CCSize': 被声明为已否决
+D:\BaiduNetdiskDownload\cocos2D4prj\4prj\cocos2d-x-dev\Test\Classes\Monster.cpp(12,38): warning C4305: “参数”: 从“double”到“float”截断
+D:\BaiduNetdiskDownload\cocos2D4prj\4prj\cocos2d-x-dev\Test\Classes\Monster.cpp(3,35): warning C4996: 'cocos2d::Director::sharedDirector': 被声明为已否决
+D:\BaiduNetdiskDownload\cocos2D4prj\4prj\cocos2d-x-dev\Test\Classes\Monster.cpp(6,11): warning C4996: 'cocos2d::Animation::addSpriteFrameWithFileName': 被声明为已否决
+D:\BaiduNetdiskDownload\cocos2D4prj\4prj\cocos2d-x-dev\Test\Classes\Monster.cpp(7,11): warning C4996: 'cocos2d::Animation::addSpriteFrameWithFileName': 被声明为已否决
+D:\BaiduNetdiskDownload\cocos2D4prj\4prj\cocos2d-x-dev\Test\Classes\Monster.cpp(8,11): warning C4996: 'cocos2d::Animation::addSpriteFrameWithFileName': 被声明为已否决
+D:\BaiduNetdiskDownload\cocos2D4prj\4prj\cocos2d-x-dev\Test\Classes\Monster.cpp(9,11): warning C4996: 'cocos2d::Animation::addSpriteFrameWithFileName': 被声明为已否决
+D:\BaiduNetdiskDownload\cocos2D4prj\4prj\cocos2d-x-dev\Test\Classes\Monster.cpp(10,11): warning C4996: 'cocos2d::Animation::addSpriteFrameWithFileName': 被声明为已否决
+D:\BaiduNetdiskDownload\cocos2D4prj\4prj\cocos2d-x-dev\Test\Classes\Monster.cpp(17,22): warning C4996: 'cocos2d::ccp': 被声明为已否决
+D:\BaiduNetdiskDownload\cocos2D4prj\4prj\cocos2d-x-dev\Test\Classes\Monster.h(6,23): warning C4996: 'cocos2d::CCNode': 被声明为已否决 (编译源文件 ..\Classes\HelloWorldScene.cpp)
+D:\BaiduNetdiskDownload\cocos2D4prj\4prj\cocos2d-x-dev\Test\Classes\Monster.h(9,2): warning C4996: 'cocos2d::CCSprite': 被声明为已否决 (编译源文件 ..\Classes\HelloWorldScene.cpp)
+D:\BaiduNetdiskDownload\cocos2D4prj\4prj\cocos2d-x-dev\Test\Classes\SecondScene.h(23,2): warning C4996: 'cocos2d::CCSprite': 被声明为已否决 (编译源文件 ..\Classes\HelloWorldScene.cpp)
+D:\BaiduNetdiskDownload\cocos2D4prj\4prj\cocos2d-x-dev\Test\Classes\SecondScene.h(24,2): warning C4996: 'cocos2d::CCSprite': 被声明为已否决 (编译源文件 ..\Classes\HelloWorldScene.cpp)
+D:\BaiduNetdiskDownload\cocos2D4prj\4prj\cocos2d-x-dev\Test\Classes\Monster.h(6,23): warning C4996: 'cocos2d::CCNode': 被声明为已否决 (编译源文件 ..\Classes\SecondScene.cpp)
+D:\BaiduNetdiskDownload\cocos2D4prj\4prj\cocos2d-x-dev\Test\Classes\Monster.h(9,2): warning C4996: 'cocos2d::CCSprite': 被声明为已否决 (编译源文件 ..\Classes\SecondScene.cpp)
+D:\BaiduNetdiskDownload\cocos2D4prj\4prj\cocos2d-x-dev\Test\Classes\SecondScene.h(23,2): warning C4996: 'cocos2d::CCSprite': 被声明为已否决 (编译源文件 ..\Classes\SecondScene.cpp)
+D:\BaiduNetdiskDownload\cocos2D4prj\4prj\cocos2d-x-dev\Test\Classes\SecondScene.h(24,2): warning C4996: 'cocos2d::CCSprite': 被声明为已否决 (编译源文件 ..\Classes\SecondScene.cpp)
+D:\BaiduNetdiskDownload\cocos2D4prj\4prj\cocos2d-x-dev\Test\Classes\FlowWord.h(7,24): warning C4996: 'cocos2d::CCNode': 被声明为已否决 (编译源文件 ..\Classes\SecondScene.cpp)
+D:\BaiduNetdiskDownload\cocos2D4prj\4prj\cocos2d-x-dev\Test\Classes\FlowWord.h(9,37): warning C4996: 'cocos2d::CCPoint': 被声明为已否决 (编译源文件 ..\Classes\SecondScene.cpp)
+D:\BaiduNetdiskDownload\cocos2D4prj\4prj\cocos2d-x-dev\Test\Classes\FlowWord.h(11,5): warning C4996: 'cocos2d::LabelTTF': 被声明为已否决 (编译源文件 ..\Classes\SecondScene.cpp)
+D:\BaiduNetdiskDownload\cocos2D4prj\4prj\cocos2d-x-dev\Test\Classes\PauseScene.h(7,26): warning C4996: 'cocos2d::CCLayer': 被声明为已否决 (编译源文件 ..\Classes\PauseScene.cpp)
+D:\BaiduNetdiskDownload\cocos2D4prj\4prj\cocos2d-x-dev\Test\Classes\PauseScene.h(13,15): warning C4996: 'cocos2d::CCObject': 被声明为已否决 (编译源文件 ..\Classes\PauseScene.cpp)
+D:\BaiduNetdiskDownload\cocos2D4prj\4prj\cocos2d-x-dev\Test\Classes\SuccessScene.h(7,28): warning C4996: 'cocos2d::CCLayer': 被声明为已否决 (编译源文件 ..\Classes\HelloWorldScene.cpp)
+D:\BaiduNetdiskDownload\cocos2D4prj\4prj\cocos2d-x-dev\Test\Classes\Rule.h(8,20): warning C4996: 'cocos2d::CCLayer': 被声明为已否决 (编译源文件 ..\Classes\HelloWorldScene.cpp)
+D:\BaiduNetdiskDownload\cocos2D4prj\4prj\cocos2d-x-dev\Test\Classes\SuccessScene.h(7,28): warning C4996: 'cocos2d::CCLayer': 被声明为已否决 (编译源文件 ..\Classes\Rule.cpp)
+D:\BaiduNetdiskDownload\cocos2D4prj\4prj\cocos2d-x-dev\Test\Classes\Rule.h(8,20): warning C4996: 'cocos2d::CCLayer': 被声明为已否决 (编译源文件 ..\Classes\Rule.cpp)
+D:\BaiduNetdiskDownload\cocos2D4prj\4prj\cocos2d-x-dev\Test\Classes\SuccessScene.h(7,28): warning C4996: 'cocos2d::CCLayer': 被声明为已否决 (编译源文件 ..\Classes\SuccessScene.cpp)
+D:\BaiduNetdiskDownload\cocos2D4prj\4prj\cocos2d-x-dev\Test\Classes\HelloWorldScene.cpp(88,28): warning C4996: 'cocos2d::ccp': 被声明为已否决
+D:\BaiduNetdiskDownload\cocos2D4prj\4prj\cocos2d-x-dev\Test\Classes\HelloWorldScene.cpp(132,37): warning C4996: 'cocos2d::MenuItemImage::create': 被声明为已否决
+D:\BaiduNetdiskDownload\cocos2D4prj\4prj\cocos2d-x-dev\Test\Classes\HelloWorldScene.cpp(151,34): warning C4996: 'cocos2d::MenuItemImage::create': 被声明为已否决
+D:\BaiduNetdiskDownload\cocos2D4prj\4prj\cocos2d-x-dev\Test\Classes\HelloWorldScene.cpp(206,17): warning C4996: 'cocos2d::Director::sharedDirector': 被声明为已否决
+D:\BaiduNetdiskDownload\cocos2D4prj\4prj\cocos2d-x-dev\Test\Classes\Monster.h(6,23): warning C4996: 'cocos2d::CCNode': 被声明为已否决 (编译源文件 ..\Classes\PauseScene.cpp)
+D:\BaiduNetdiskDownload\cocos2D4prj\4prj\cocos2d-x-dev\Test\Classes\Monster.h(9,2): warning C4996: 'cocos2d::CCSprite': 被声明为已否决 (编译源文件 ..\Classes\PauseScene.cpp)
+D:\BaiduNetdiskDownload\cocos2D4prj\4prj\cocos2d-x-dev\Test\Classes\SecondScene.h(23,2): warning C4996: 'cocos2d::CCSprite': 被声明为已否决 (编译源文件 ..\Classes\PauseScene.cpp)
+D:\BaiduNetdiskDownload\cocos2D4prj\4prj\cocos2d-x-dev\Test\Classes\SecondScene.h(24,2): warning C4996: 'cocos2d::CCSprite': 被声明为已否决 (编译源文件 ..\Classes\PauseScene.cpp)
+D:\BaiduNetdiskDownload\cocos2D4prj\4prj\cocos2d-x-dev\Test\Classes\PauseScene.h(7,26): warning C4996: 'cocos2d::CCLayer': 被声明为已否决 (编译源文件 ..\Classes\SecondScene.cpp)
+D:\BaiduNetdiskDownload\cocos2D4prj\4prj\cocos2d-x-dev\Test\Classes\PauseScene.h(13,15): warning C4996: 'cocos2d::CCObject': 被声明为已否决 (编译源文件 ..\Classes\SecondScene.cpp)
+D:\BaiduNetdiskDownload\cocos2D4prj\4prj\cocos2d-x-dev\Test\Classes\PauseScene.cpp(9,1): warning C4996: 'cocos2d::CCScene': 被声明为已否决
+D:\BaiduNetdiskDownload\cocos2D4prj\4prj\cocos2d-x-dev\Test\Classes\DeathScene.h(9,26): warning C4996: 'cocos2d::CCLayer': 被声明为已否决 (编译源文件 ..\Classes\SecondScene.cpp)
+D:\BaiduNetdiskDownload\cocos2D4prj\4prj\cocos2d-x-dev\Test\Classes\DeathScene.h(15,15): warning C4996: 'cocos2d::CCObject': 被声明为已否决 (编译源文件 ..\Classes\SecondScene.cpp)
+D:\BaiduNetdiskDownload\cocos2D4prj\4prj\cocos2d-x-dev\Test\Classes\PauseScene.cpp(11,2): warning C4996: 'cocos2d::CCScene': 被声明为已否决
+D:\BaiduNetdiskDownload\cocos2D4prj\4prj\cocos2d-x-dev\Test\Classes\PauseScene.cpp(20,2): warning C4996: 'cocos2d::CCSize': 被声明为已否决
+D:\BaiduNetdiskDownload\cocos2D4prj\4prj\cocos2d-x-dev\Test\Classes\SuccessScene.h(7,28): warning C4996: 'cocos2d::CCLayer': 被声明为已否决 (编译源文件 ..\Classes\SecondScene.cpp)
+D:\BaiduNetdiskDownload\cocos2D4prj\4prj\cocos2d-x-dev\Test\Classes\SecondScene.cpp(14,19): warning C4996: 'cocos2d::CCSprite': 被声明为已否决
+D:\BaiduNetdiskDownload\cocos2D4prj\4prj\cocos2d-x-dev\Test\Classes\SecondScene.cpp(14,38): warning C4996: 'cocos2d::CCSprite': 被声明为已否决
+D:\BaiduNetdiskDownload\cocos2D4prj\4prj\cocos2d-x-dev\Test\Classes\PauseScene.cpp(20,35): warning C4996: 'cocos2d::Director::sharedDirector': 被声明为已否决
+D:\BaiduNetdiskDownload\cocos2D4prj\4prj\cocos2d-x-dev\Test\Classes\PauseScene.cpp(42,33): warning C4996: 'cocos2d::MenuItemImage::create': 被声明为已否决
+D:\BaiduNetdiskDownload\cocos2D4prj\4prj\cocos2d-x-dev\Test\Classes\PauseScene.cpp(64,23): warning C4996: 'cocos2d::CCObject': 被声明为已否决
+D:\BaiduNetdiskDownload\cocos2D4prj\4prj\cocos2d-x-dev\Test\Classes\SecondScene.cpp(74,16): warning C4996: 'cocos2d::Director::sharedDirector': 被声明为已否决
+D:\BaiduNetdiskDownload\cocos2D4prj\4prj\cocos2d-x-dev\Test\Classes\PauseScene.cpp(67,14): warning C4996: 'cocos2d::Director::sharedDirector': 被声明为已否决
+D:\BaiduNetdiskDownload\cocos2D4prj\4prj\cocos2d-x-dev\Test\Classes\SecondScene.cpp(221,37): warning C4305: “参数”: 从“double”到“float”截断
+D:\BaiduNetdiskDownload\cocos2D4prj\4prj\cocos2d-x-dev\Test\Classes\SecondScene.cpp(261,1): warning C4305: “参数”: 从“double”到“float”截断
+D:\BaiduNetdiskDownload\cocos2D4prj\4prj\cocos2d-x-dev\Test\Classes\SecondScene.cpp(30,6): warning C4996: 'cocos2d::Layer::setTouchEnabled': 被声明为已否决
+D:\BaiduNetdiskDownload\cocos2D4prj\4prj\cocos2d-x-dev\Test\Classes\SecondScene.cpp(42,24): warning C4996: 'cocos2d::Label::create': 被声明为已否决
+D:\BaiduNetdiskDownload\cocos2D4prj\4prj\cocos2d-x-dev\Test\Classes\SecondScene.cpp(51,33): warning C4996: 'cocos2d::MenuItemImage::create': 被声明为已否决
+D:\BaiduNetdiskDownload\cocos2D4prj\4prj\cocos2d-x-dev\Test\Classes\SecondScene.cpp(137,33): warning C4996: 'cocos2d::ccp': 被声明为已否决
+D:\BaiduNetdiskDownload\cocos2D4prj\4prj\cocos2d-x-dev\Test\Classes\SecondScene.cpp(140,32): warning C4996: 'cocos2d::ccp': 被声明为已否决
+D:\BaiduNetdiskDownload\cocos2D4prj\4prj\cocos2d-x-dev\Test\Classes\SecondScene.cpp(190,25): warning C4996: 'cocos2d::ccp': 被声明为已否决
+D:\BaiduNetdiskDownload\cocos2D4prj\4prj\cocos2d-x-dev\Test\Classes\SecondScene.cpp(194,25): warning C4996: 'cocos2d::ccp': 被声明为已否决
+D:\BaiduNetdiskDownload\cocos2D4prj\4prj\cocos2d-x-dev\Test\Classes\SecondScene.cpp(217,10): warning C4996: 'cocos2d::Animation::addSpriteFrameWithFileName': 被声明为已否决
+D:\BaiduNetdiskDownload\cocos2D4prj\4prj\cocos2d-x-dev\Test\Classes\SecondScene.cpp(218,10): warning C4996: 'cocos2d::Animation::addSpriteFrameWithFileName': 被声明为已否决
+D:\BaiduNetdiskDownload\cocos2D4prj\4prj\cocos2d-x-dev\Test\Classes\SecondScene.cpp(219,10): warning C4996: 'cocos2d::Animation::addSpriteFrameWithFileName': 被声明为已否决
+D:\BaiduNetdiskDownload\cocos2D4prj\4prj\cocos2d-x-dev\Test\Classes\SecondScene.cpp(448,19): warning C4996: 'cocos2d::CCSprite': 被声明为已否决
+D:\BaiduNetdiskDownload\cocos2D4prj\4prj\cocos2d-x-dev\Test\Classes\SecondScene.cpp(448,38): warning C4996: 'cocos2d::CCSprite': 被声明为已否决
+D:\BaiduNetdiskDownload\cocos2D4prj\4prj\cocos2d-x-dev\Test\Classes\SecondScene.cpp(451,2): warning C4996: 'cocos2d::CCSize': 被声明为已否决
+D:\BaiduNetdiskDownload\cocos2D4prj\4prj\cocos2d-x-dev\Test\Classes\SecondScene.cpp(452,2): warning C4996: 'cocos2d::CCPoint': 被声明为已否决
+D:\BaiduNetdiskDownload\cocos2D4prj\4prj\cocos2d-x-dev\Test\Classes\SecondScene.cpp(453,2): warning C4996: 'cocos2d::CCRect': 被声明为已否决
+D:\BaiduNetdiskDownload\cocos2D4prj\4prj\cocos2d-x-dev\Test\Classes\SecondScene.cpp(459,2): warning C4996: 'cocos2d::CCSize': 被声明为已否决
+D:\BaiduNetdiskDownload\cocos2D4prj\4prj\cocos2d-x-dev\Test\Classes\SecondScene.cpp(460,2): warning C4996: 'cocos2d::CCPoint': 被声明为已否决
+D:\BaiduNetdiskDownload\cocos2D4prj\4prj\cocos2d-x-dev\Test\Classes\SecondScene.cpp(461,2): warning C4996: 'cocos2d::CCRect': 被声明为已否决
+D:\BaiduNetdiskDownload\cocos2D4prj\4prj\cocos2d-x-dev\Test\Classes\SecondScene.cpp(453,24): warning C4996: 'cocos2d::CCRectMake': 被声明为已否决
+D:\BaiduNetdiskDownload\cocos2D4prj\4prj\cocos2d-x-dev\Test\Classes\SecondScene.cpp(461,24): warning C4996: 'cocos2d::CCRectMake': 被声明为已否决
+D:\BaiduNetdiskDownload\cocos2D4prj\4prj\cocos2d-x-dev\Test\Classes\SecondScene.cpp(475,2): warning C4996: 'cocos2d::CCSize': 被声明为已否决
+D:\BaiduNetdiskDownload\cocos2D4prj\4prj\cocos2d-x-dev\Test\Classes\SecondScene.cpp(497,15): warning C4305: “+=”: 从“double”到“float”截断
+D:\BaiduNetdiskDownload\cocos2D4prj\4prj\cocos2d-x-dev\Test\Classes\SecondScene.cpp(475,35): warning C4996: 'cocos2d::Director::sharedDirector': 被声明为已否决
+D:\BaiduNetdiskDownload\cocos2D4prj\4prj\cocos2d-x-dev\Test\Classes\SecondScene.cpp(501,15): warning C4996: 'cocos2d::Director::sharedDirector': 被声明为已否决
+D:\BaiduNetdiskDownload\cocos2D4prj\4prj\cocos2d-x-dev\Test\Classes\SecondScene.cpp(507,33): warning C4996: 'cocos2d::ccp': 被声明为已否决
+D:\BaiduNetdiskDownload\cocos2D4prj\4prj\cocos2d-x-dev\Test\Classes\SecondScene.cpp(534,18): warning C4996: 'cocos2d::Director::sharedDirector': 被声明为已否决
+D:\BaiduNetdiskDownload\cocos2D4prj\4prj\cocos2d-x-dev\Test\Classes\SecondScene.cpp(539,33): warning C4996: 'cocos2d::ccp': 被声明为已否决
+D:\BaiduNetdiskDownload\cocos2D4prj\4prj\cocos2d-x-dev\Test\Classes\Monster.h(6,23): warning C4996: 'cocos2d::CCNode': 被声明为已否决 (编译源文件 ..\Classes\Rule.cpp)
+D:\BaiduNetdiskDownload\cocos2D4prj\4prj\cocos2d-x-dev\Test\Classes\Monster.h(9,2): warning C4996: 'cocos2d::CCSprite': 被声明为已否决 (编译源文件 ..\Classes\Rule.cpp)
+D:\BaiduNetdiskDownload\cocos2D4prj\4prj\cocos2d-x-dev\Test\Classes\SecondScene.h(23,2): warning C4996: 'cocos2d::CCSprite': 被声明为已否决 (编译源文件 ..\Classes\Rule.cpp)
+D:\BaiduNetdiskDownload\cocos2D4prj\4prj\cocos2d-x-dev\Test\Classes\SecondScene.h(24,2): warning C4996: 'cocos2d::CCSprite': 被声明为已否决 (编译源文件 ..\Classes\Rule.cpp)
+D:\BaiduNetdiskDownload\cocos2D4prj\4prj\cocos2d-x-dev\Test\Classes\Rule.cpp(8,1): warning C4996: 'cocos2d::CCScene': 被声明为已否决
+D:\BaiduNetdiskDownload\cocos2D4prj\4prj\cocos2d-x-dev\Test\Classes\Rule.cpp(10,2): warning C4996: 'cocos2d::CCScene': 被声明为已否决
+D:\BaiduNetdiskDownload\cocos2D4prj\4prj\cocos2d-x-dev\Test\Classes\Rule.cpp(19,2): warning C4996: 'cocos2d::CCSize': 被声明为已否决
+D:\BaiduNetdiskDownload\cocos2D4prj\4prj\cocos2d-x-dev\Test\Classes\Rule.cpp(19,35): warning C4996: 'cocos2d::Director::sharedDirector': 被声明为已否决
+D:\BaiduNetdiskDownload\cocos2D4prj\4prj\cocos2d-x-dev\Test\Classes\Rule.cpp(25,33): warning C4996: 'cocos2d::MenuItemImage::create': 被声明为已否决
+D:\BaiduNetdiskDownload\cocos2D4prj\4prj\cocos2d-x-dev\Test\Classes\Monster.h(6,23): warning C4996: 'cocos2d::CCNode': 被声明为已否决 (编译源文件 ..\Classes\DeathScene.cpp)
+D:\BaiduNetdiskDownload\cocos2D4prj\4prj\cocos2d-x-dev\Test\Classes\Monster.h(9,2): warning C4996: 'cocos2d::CCSprite': 被声明为已否决 (编译源文件 ..\Classes\DeathScene.cpp)
+D:\BaiduNetdiskDownload\cocos2D4prj\4prj\cocos2d-x-dev\Test\Classes\SecondScene.h(23,2): warning C4996: 'cocos2d::CCSprite': 被声明为已否决 (编译源文件 ..\Classes\DeathScene.cpp)
+D:\BaiduNetdiskDownload\cocos2D4prj\4prj\cocos2d-x-dev\Test\Classes\SecondScene.h(24,2): warning C4996: 'cocos2d::CCSprite': 被声明为已否决 (编译源文件 ..\Classes\DeathScene.cpp)
+D:\BaiduNetdiskDownload\cocos2D4prj\4prj\cocos2d-x-dev\Test\Classes\DeathScene.h(9,26): warning C4996: 'cocos2d::CCLayer': 被声明为已否决 (编译源文件 ..\Classes\DeathScene.cpp)
+D:\BaiduNetdiskDownload\cocos2D4prj\4prj\cocos2d-x-dev\Test\Classes\DeathScene.h(15,15): warning C4996: 'cocos2d::CCObject': 被声明为已否决 (编译源文件 ..\Classes\DeathScene.cpp)
+D:\BaiduNetdiskDownload\cocos2D4prj\4prj\cocos2d-x-dev\Test\Classes\Monster.h(6,23): warning C4996: 'cocos2d::CCNode': 被声明为已否决 (编译源文件 ..\Classes\SuccessScene.cpp)
+D:\BaiduNetdiskDownload\cocos2D4prj\4prj\cocos2d-x-dev\Test\Classes\Monster.h(9,2): warning C4996: 'cocos2d::CCSprite': 被声明为已否决 (编译源文件 ..\Classes\SuccessScene.cpp)
+D:\BaiduNetdiskDownload\cocos2D4prj\4prj\cocos2d-x-dev\Test\Classes\DeathScene.cpp(10,1): warning C4996: 'cocos2d::CCScene': 被声明为已否决
+D:\BaiduNetdiskDownload\cocos2D4prj\4prj\cocos2d-x-dev\Test\Classes\SecondScene.h(23,2): warning C4996: 'cocos2d::CCSprite': 被声明为已否决 (编译源文件 ..\Classes\SuccessScene.cpp)
+D:\BaiduNetdiskDownload\cocos2D4prj\4prj\cocos2d-x-dev\Test\Classes\DeathScene.cpp(12,2): warning C4996: 'cocos2d::CCScene': 被声明为已否决
+D:\BaiduNetdiskDownload\cocos2D4prj\4prj\cocos2d-x-dev\Test\Classes\SecondScene.h(24,2): warning C4996: 'cocos2d::CCSprite': 被声明为已否决 (编译源文件 ..\Classes\SuccessScene.cpp)
+D:\BaiduNetdiskDownload\cocos2D4prj\4prj\cocos2d-x-dev\Test\Classes\DeathScene.cpp(27,2): warning C4996: 'cocos2d::CCSize': 被声明为已否决
+D:\BaiduNetdiskDownload\cocos2D4prj\4prj\cocos2d-x-dev\Test\Classes\DeathScene.cpp(27,35): warning C4996: 'cocos2d::Director::sharedDirector': 被声明为已否决
+D:\BaiduNetdiskDownload\cocos2D4prj\4prj\cocos2d-x-dev\Test\Classes\DeathScene.cpp(38,33): warning C4996: 'cocos2d::MenuItemImage::create': 被声明为已否决
+D:\BaiduNetdiskDownload\cocos2D4prj\4prj\cocos2d-x-dev\Test\Classes\DeathScene.cpp(52,36): warning C4996: 'cocos2d::MenuItemImage::create': 被声明为已否决
+D:\BaiduNetdiskDownload\cocos2D4prj\4prj\cocos2d-x-dev\Test\Classes\DeathScene.cpp(73,23): warning C4996: 'cocos2d::CCObject': 被声明为已否决
+D:\BaiduNetdiskDownload\cocos2D4prj\4prj\cocos2d-x-dev\Test\Classes\SuccessScene.cpp(9,1): warning C4996: 'cocos2d::CCScene': 被声明为已否决
+D:\BaiduNetdiskDownload\cocos2D4prj\4prj\cocos2d-x-dev\Test\Classes\DeathScene.cpp(75,14): warning C4996: 'cocos2d::Director::sharedDirector': 被声明为已否决
+D:\BaiduNetdiskDownload\cocos2D4prj\4prj\cocos2d-x-dev\Test\Classes\SuccessScene.cpp(11,2): warning C4996: 'cocos2d::CCScene': 被声明为已否决
+D:\BaiduNetdiskDownload\cocos2D4prj\4prj\cocos2d-x-dev\Test\Classes\SuccessScene.cpp(20,2): warning C4996: 'cocos2d::CCSize': 被声明为已否决
+D:\BaiduNetdiskDownload\cocos2D4prj\4prj\cocos2d-x-dev\Test\Classes\SuccessScene.cpp(20,35): warning C4996: 'cocos2d::Director::sharedDirector': 被声明为已否决
+D:\BaiduNetdiskDownload\cocos2D4prj\4prj\cocos2d-x-dev\Test\Classes\SuccessScene.cpp(27,31): warning C4996: 'cocos2d::MenuItemImage::create': 被声明为已否决
+D:\BaiduNetdiskDownload\cocos2D4prj\4prj\cocos2d-x-dev\Test\Classes\SuccessScene.cpp(41,34): warning C4996: 'cocos2d::MenuItemImage::create': 被声明为已否决
+    正在创建库 D:\BaiduNetdiskDownload\cocos2D4prj\4prj\cocos2d-x-dev\Test\proj.win32\Release.win32\Test.lib 和对象 D:\BaiduNetdiskDownload\cocos2D4prj\4prj\cocos2d-x-dev\Test\proj.win32\Release.win32\Test.exp
+  正在生成代码
+  Previous IPDB was built with incompatible compiler, fall back to full compilation.
+  All 375 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  Test.vcxproj -> D:\BaiduNetdiskDownload\cocos2D4prj\4prj\cocos2d-x-dev\Test\proj.win32\Release.win32\Test.exe
+  Performing Custom Build Step
+  复制了 0 个文件

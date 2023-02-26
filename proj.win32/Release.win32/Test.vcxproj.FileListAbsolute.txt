@@ -1,0 +1,2 @@
+D:\4prj\cocos2d-x-dev\Test\proj.win32\Release.win32\Test.exe
+D:\BaiduNetdiskDownload\cocos2D4prj\4prj\cocos2d-x-dev\Test\proj.win32\Release.win32\Test.exe
